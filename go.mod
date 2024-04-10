@@ -8,7 +8,7 @@ require (
 	github.com/go-openapi/strfmt v0.21.8
 	github.com/go-openapi/swag v0.22.4
 	github.com/gophercloud/gophercloud v1.7.0
-	github.com/gophercloud/utils v0.0.0-20231010081019-80377eca5d56
+	github.com/gophercloud/utils c2cbb9f23ff9
 	github.com/sapcc/archer v1.0.1
 	k8s.io/api v0.28.2
 	k8s.io/apimachinery v0.28.2
