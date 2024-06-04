@@ -2,7 +2,7 @@ module github.com/sapcc/archer-controller
 
 go 1.21.1
 
-toolchain go1.22.3
+toolchain go1.22.4
 
 require (
 	github.com/go-logr/logr v1.4.1
