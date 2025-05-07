@@ -1,6 +1,6 @@
 module github.com/sapcc/archer-controller
 
-go 1.21.1
+go 1.22
 
 toolchain go1.24.2
 
@@ -9,7 +9,8 @@ require (
 	github.com/go-openapi/runtime v0.28.0
 	github.com/go-openapi/strfmt v0.23.0
 	github.com/go-openapi/swag v0.23.0
-	github.com/gophercloud/gophercloud v1.7.0
+	github.com/gophercloud/gophercloud v1.6.0
+	github.com/gophercloud/gophercloud/v2 v2.7.0
 	github.com/gophercloud/utils v0.0.0-20231010081019-80377eca5d56
 	github.com/sapcc/archer v1.0.1
 	k8s.io/api v0.28.2
@@ -71,7 +72,7 @@ require (
 	golang.org/x/net v0.23.0 // indirect
 	golang.org/x/oauth2 v0.8.0 // indirect
 	golang.org/x/sync v0.6.0 // indirect
-	golang.org/x/sys v0.18.0 // indirect
+	golang.org/x/sys v0.30.0 // indirect
 	golang.org/x/term v0.18.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
